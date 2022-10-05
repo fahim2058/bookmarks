@@ -1,0 +1,17 @@
+.textfont{
+    margin-left: 10%;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    color: rgb(105, 104, 104);
+}
+.containerme{
+    border-radius: 8px;
+}
+
+.logosize{
+    max-width: 40px;
+}
+.bgmeorange{
+    background-color: rgba(42, 62, 75, 0.514);
+}

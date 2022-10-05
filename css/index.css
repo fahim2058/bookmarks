@@ -1,0 +1,29 @@
+.carousel{
+    margin-top: 30px;
+}
+.carousel .col-md-5 h1{
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+.carousel .col-md-5 p,p{
+    font-size:20px;
+    font-family: 'Poppins', sans-serif;
+    color: rgba(61, 61, 61, 0.932);
+    text-align: center;
+}
+button{
+    margin: 0 10px;
+    padding: 5px 10px;
+    border: transparent;
+    border-radius: 5px;
+    outline: transparent;
+    background: rgba(67, 67, 67, 0.412);
+    transition: all .5s ease;
+}
+button:hover{
+    background: var(--ternary);
+    color: var(--primary);
+    
+}
