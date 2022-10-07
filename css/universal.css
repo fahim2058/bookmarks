@@ -5,6 +5,12 @@
     font-size: 20px;
     color: rgb(105, 104, 104);
 }
+.textfont-sub{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    color: rgb(105, 104, 104);
+}
 .containerme{
     border-radius: 8px;
 }
